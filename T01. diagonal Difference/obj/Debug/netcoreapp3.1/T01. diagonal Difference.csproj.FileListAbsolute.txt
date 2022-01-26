@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T01. diagonal Difference\bin\Debug\netcoreapp3.1\T01. diagonal Difference.exe
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T01. diagonal Difference\bin\Debug\netcoreapp3.1\T01. diagonal Difference.deps.json
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T01. diagonal Difference\bin\Debug\netcoreapp3.1\T01. diagonal Difference.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T01. diagonal Difference\bin\Debug\netcoreapp3.1\T01. diagonal Difference.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T01. diagonal Difference\bin\Debug\netcoreapp3.1\T01. diagonal Difference.dll
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T01. diagonal Difference\bin\Debug\netcoreapp3.1\T01. diagonal Difference.pdb
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T01. diagonal Difference\obj\Debug\netcoreapp3.1\T01. diagonal Difference.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T01. diagonal Difference\obj\Debug\netcoreapp3.1\T01. diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T01. diagonal Difference\obj\Debug\netcoreapp3.1\T01. diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T01. diagonal Difference\obj\Debug\netcoreapp3.1\T01. diagonal Difference.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T01. diagonal Difference\obj\Debug\netcoreapp3.1\T01. diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T01. diagonal Difference\obj\Debug\netcoreapp3.1\T01. diagonal Difference.dll
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T01. diagonal Difference\obj\Debug\netcoreapp3.1\T01. diagonal Difference.pdb
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T01. diagonal Difference\obj\Debug\netcoreapp3.1\T01. diagonal Difference.genruntimeconfig.cache
