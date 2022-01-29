@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T08. Bombs\bin\Debug\netcoreapp3.1\T08. Bombs.exe
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T08. Bombs\bin\Debug\netcoreapp3.1\T08. Bombs.deps.json
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T08. Bombs\bin\Debug\netcoreapp3.1\T08. Bombs.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T08. Bombs\bin\Debug\netcoreapp3.1\T08. Bombs.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T08. Bombs\bin\Debug\netcoreapp3.1\T08. Bombs.dll
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T08. Bombs\bin\Debug\netcoreapp3.1\T08. Bombs.pdb
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T08. Bombs\obj\Debug\netcoreapp3.1\T08. Bombs.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T08. Bombs\obj\Debug\netcoreapp3.1\T08. Bombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T08. Bombs\obj\Debug\netcoreapp3.1\T08. Bombs.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T08. Bombs\obj\Debug\netcoreapp3.1\T08. Bombs.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T08. Bombs\obj\Debug\netcoreapp3.1\T08. Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T08. Bombs\obj\Debug\netcoreapp3.1\T08. Bombs.dll
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T08. Bombs\obj\Debug\netcoreapp3.1\T08. Bombs.pdb
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T08. Bombs\obj\Debug\netcoreapp3.1\T08. Bombs.genruntimeconfig.cache

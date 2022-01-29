@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T06. Jagged Array Manipulation\bin\Debug\netcoreapp3.1\T06. Jagged Array Manipulation.exe
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T06. Jagged Array Manipulation\bin\Debug\netcoreapp3.1\T06. Jagged Array Manipulation.deps.json
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T06. Jagged Array Manipulation\bin\Debug\netcoreapp3.1\T06. Jagged Array Manipulation.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T06. Jagged Array Manipulation\bin\Debug\netcoreapp3.1\T06. Jagged Array Manipulation.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T06. Jagged Array Manipulation\bin\Debug\netcoreapp3.1\T06. Jagged Array Manipulation.dll
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T06. Jagged Array Manipulation\bin\Debug\netcoreapp3.1\T06. Jagged Array Manipulation.pdb
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T06. Jagged Array Manipulation\obj\Debug\netcoreapp3.1\T06. Jagged Array Manipulation.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T06. Jagged Array Manipulation\obj\Debug\netcoreapp3.1\T06. Jagged Array Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T06. Jagged Array Manipulation\obj\Debug\netcoreapp3.1\T06. Jagged Array Manipulation.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T06. Jagged Array Manipulation\obj\Debug\netcoreapp3.1\T06. Jagged Array Manipulation.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T06. Jagged Array Manipulation\obj\Debug\netcoreapp3.1\T06. Jagged Array Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T06. Jagged Array Manipulation\obj\Debug\netcoreapp3.1\T06. Jagged Array Manipulation.dll
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T06. Jagged Array Manipulation\obj\Debug\netcoreapp3.1\T06. Jagged Array Manipulation.pdb
+C:\Users\Kristiyan\source\repos\Multidimentional Arrays Exercise\T06. Jagged Array Manipulation\obj\Debug\netcoreapp3.1\T06. Jagged Array Manipulation.genruntimeconfig.cache
